@@ -1,8 +1,8 @@
 Hi I'm Karol. I am currently studying Computer Science on Aplen-Adria Universitaet in Klagenfurt (but it is just a semester abroad, my home uni is Poznan University of Technology).
 
-I've been programin for couple yeras now, even though most of me works is purely academical. I did couple bigger projects for different subjects on universty.
+I've been programing for couple yeras now, even though most of my works is purely academical. I did a couple of bigger projects for different subjects on universty.
 
-One of my bigger interests is GameDev. I am a part of GameDev Student Association on PUT (RPG, check out on FB) and there, with my friend I worked on two bigger projects using unity: 2d rouglike with turn time strategy called **Project:Mercenary** (available on itch.io) and underwater labirynth escaping game in 3d called **DeepTwelve** (still in development, but should soon have a working demo).
+One of my bigger interests is GameDev. I am a part of GameDev Student Association on PUT (RPG, check out on FB) and there, with my friend I worked on two bigger projects using unity: 2d rougelike on hexes with turn time strategy called **Project:Mercenary** (available on itch.io) and underwater labirynth escaping game in 3d called **DeepTwelve** (still in development, but should soon have a working demo).
 
 My tech stack is quite diverse. I started programming in **C++** (honeslty I did my first code in Scrath and then in Lego Mindstorm NXT system, but that kinda doesn't count), and since then added a couple of other languages. I can write scripts in **Python** (plus I did ton of courses on different aspects, like NLP or ML, and also planing on going into _Django_ thanks to uni. Also I have I think three more projects somewhere, so maybe in the future they will apear here (games!)) and in **Java** (which currently is my main goal, I did recently two games in FX, and trying to catch up with some modern technologies -> _Spring_, etc).
 
@@ -10,7 +10,7 @@ I would consider myself as being a backend developer, because I really hate work
 
 I also did a course on data science with **R** (DataCamp), but that was more for fun and education than anything practical (honestly getting internship in DSc is nearly impossible).
 
-So that's mostly it. If you want to know, in my free time I read a lot (comicbooks (Marvel is better) and fantasy books (but other genres also sometimes find a way to my bookshelf), I love traveling and mountain hikig (that's why I am in Austria right now), I do scale models (not collect them, mind you, mostly planes) and write (am a writer at heart, coding is also kinda writing, so bonus points here).
+So that's mostly it. If you want to know, in my free time I read a lot (comicbooks (Marvel is better, but not nearly as good as Image and French comics) and fantasy books (but other genres also sometimes find a way to my bookshelf), I love traveling and mountain hiking (that's why I am in Austria right now), I do scale models (not collect them, mind you, mostly planes) and write (am a writer at heart, coding is also kinda writing, so bonus points here).
 
 I also love to learn, and am quite good at it (fast and precise, so to say). I speak fluent English and Polish (hello, that's my native language, and I fully agree that it's crazy complicated language) and trying to get fluent in German (don't believe what you see on the internet, it's a beutiful language). 
 So that's it, definetly this time.
