@@ -1,4 +1,4 @@
-Hi I'm Karol. I am currently studying Computer Science on Aplen-Adria Universitaet in Klagenfurt (but it is just a semester abroad, my home uni is Poznan University of Technology).
+Hi I'm Karol. I am currently studying Computer Science on Aplen-Adria Universitaet in Klagenfurt (but it is just one year abroad, my home uni is Poznan University of Technology).
 
 I've been programing for couple yeras now, even though most of my works is purely academical. I did a couple of bigger projects for different subjects on universty.
 
